@@ -3,7 +3,7 @@
 
 | ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [안현태](https://github.com/UpstageAILab)             |            [문서연](https://github.com/UpstageAILab)             |            [송은혜](https://github.com/UpstageAILab)             |            [정용재](https://github.com/UpstageAILab)             |            [주예령](https://github.com/UpstageAILab)             |
+|            [안현태](https://github.com/UpstageAILab)             |            [문서연](https://github.com/UpstageAILab)             |            [손은혜](https://github.com/UpstageAILab)             |            [정용재](https://github.com/UpstageAILab)             |            [주예령](https://github.com/UpstageAILab)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 0. Overview
