@@ -39,20 +39,29 @@
 
 e.g.
 ```
-├── code
-│   ├── jupyter_notebooks
-│   │   └── model_train.ipynb
-│   └── train.py
-├── docs
-│   ├── pdf
-│   │   └── (Template) [패스트캠퍼스] Upstage AI Lab 1기_그룹 스터디 .pptx
-│   └── paper
-└── input
-    └── data
-        ├── eval
-        └── train
-```
+project-repo/
+│
+├── data/                # 공통 데이터 (원본 or 전처리된 데이터)
+│   ├── raw/             # 원본 데이터
+│   └── processed/       # 전처리 데이터
+│
+├── notebooks/           # 개인별 Jupyter Notebook 작업 공간
+│   ├── hyuntae/         # 현태님 개인 폴더
+│   ├── memberA/         # 팀원 A 개인 폴더
+│   ├── memberB/         # 팀원 B 개인 폴더
+│   └── shared/          # 팀 전체 공유 노트북
+│
+├── src/                 # 프로젝트 코드 (Python 스크립트, 모듈화된 코드)
+│
+├── reports/             # 보고서, 회의 정리, 결과물
+│   ├── figures/         # 시각화 이미지, 그래프
+│   └── meeting-notes/   # 회의록
+│
+├── README.md            # 프로젝트 설명 문서
+└── requirements.txt     # 패키지/환경 정보
 
+
+```
 ## 3. Data descrption
 
 ### Dataset overview
